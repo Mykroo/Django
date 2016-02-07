@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"id",
+				"id_depa"
+			],
+			[
+				"cont",
+				"CONTINUE"
+			],
+			[
+				"curs",
+				"CURSOR"
+			],
+			[
+				"emp",
+				"employees"
+			],
+			[
+				"whil",
+				"WHILE"
+			],
+			[
+				"crea",
+				"CREATE"
+			],
+			[
+				"end",
+				"END"
+			],
+			[
+				"begin",
+				"BEGIN"
+			],
+			[
+				"em",
+				"employees"
+			],
+			[
+				"e",
+				"emp_no"
+			],
+			[
+				"gen",
+				"Genero"
+			],
+			[
+				"sa",
+				"salaries"
+			],
+			[
+				"de",
+				"dept_manager"
+			],
+			[
+				"dept",
+				"dept_manager"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"s-",
+				"s-u	sql-update"
+			],
+			[
+				"d",
+				"dept_no"
+			],
+			[
+				"salar",
+				"salaries"
+			],
+			[
+				"o",
+				"OPICIONAL"
+			],
+			[
+				"s",
+				"s--	sql-entity-comma"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"djan",
+				"Snippet: New django management command"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"dja",
+				"Django: Create New Project (relative to Open File)"
+			],
+			[
+				"set",
+				"Set Syntax: Java"
+			],
+			[
+				"sql",
+				"Snippet: sql-limit"
+			],
+			[
+				"limi",
+				"Snippet: sql-limit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/mykro/Parti/UAA/Python/Django/src/Django/settings.py",
+		"/media/mykro/Parti/UAA/Python/Django/src/Django/urls.py",
+		"/media/mykro/Parti/UAA/Python/Django/src/nueva/views.py",
+		"/media/mykro/Parti/UAA/Python/Django/src/nueva/templates/home.html",
+		"/media/mykro/Parti/UAA/Python/Django/src/nueva/admin.py",
+		"/media/mykro/Parti/UAA/Python/Django/index.py",
+		"/media/mykro/Parti/UAA/Python/Django/Primero/manage.py",
+		"/media/mykro/Parti/UAA/7°/BD/triggers.sql",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/Semantico.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/MainWindow.cs",
+		"/media/mykro/Parti/UAA/7°/BD/procedure.sql",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/CodigoPGen.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/WidgetBuscarRemplazar.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/Token.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/TipoDato.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/TextWidget.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/Sintactico.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/Nodo.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/Process.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/Program.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/MyTreeNode.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/Lexico.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/facto.myk",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/Emulador.cs",
+		"/media/mykro/Parti/UAA/7°/Compiladores/compis/Compi_segundo/Compi_segundo.csproj",
+		"/media/mykro/Parti/UAA/7°/BD/procedure.txt",
+		"/media/mykro/Parti/Unix & develop Advanced techs/ScribdAdiosaPagar.js",
+		"/media/mykro/Parti/UAA/7°/BD/lista sl.txt",
+		"/media/mykro/Parti/UAA/7°/BD/praResumen.sql",
+		"/media/mykro/Parti/UAA/7°/BD/backup.sql",
+		"/media/mykro/Parti/UAA/7°/BD/having.sql",
+		"/media/mykro/Parti/UAA/7°/BD/subqueries.sql",
+		"/media/mykro/Parti/Git/rmi_proyecto/src/ArchivosRMI/Todo.java",
+		"/media/mykro/Parti/Git/rmi_proyecto/src/ArchivosRMI/RMIInputStreamImpl.java",
+		"/home/mykro/.config/sublime-text-2/Packages/User/MySql.sublime-build",
+		"/home/mykro/.config/sublime-text-2/Packages/User/PitoMon.sublime-build",
+		"/media/mykro/Parti/UAA/Python/primero.py",
+		"/media/mykro/Parti/UAA/Python/hours2.2.py",
+		"/media/mykro/Parti/UAA/Python/condiciones.py",
+		"/media/mykro/788A58C38A587F94/Users/Mykro/AppData/Roaming/Sublime Text 2/Packages/User/MYSQL.sublime-build"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user.",
+			"user.t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 479.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
